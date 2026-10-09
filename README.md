@@ -77,5 +77,5 @@ VS Code, XAMPP (Apache, MySQL, phpMyAdmin), Git and GitHub, a modern web browser
 
 ## Author
 
-**[YOUR NAME]** – [YOUR ID]  
-[YOUR COLLEGE / DEPARTMENT]
+**Lakshit Hirpara** – 25CS019
+CSE - CSPIT
